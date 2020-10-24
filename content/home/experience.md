@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Papers reading notes"
+title = "experience"
 subtitle = ""
 
 # Date format for experience
@@ -21,13 +21,13 @@ date_format = "Jan 2006"
   title = "SSAHTV"
   company = "IEEE"
   company_url = ""
-  location = "California"
+  location = ""
   date_start = "2012"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Link:链接：https://pan.baidu.com/s/1mtkAzWov6c86uBIwl-D_lw 提取码：riwd 
+  * Link：
   * TV
   """
 
