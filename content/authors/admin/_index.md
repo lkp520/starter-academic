@@ -67,3 +67,5 @@ user_groups:
 ---
 
 Kengpeng Li is a graduate student of Sun Yat sen University. My research interests include hyperspectral image denoising.
+
+My CSDN blog is https://blog.csdn.net/weixin_41553159.
