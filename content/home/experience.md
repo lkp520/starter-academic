@@ -17,18 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "SSAHTV"
-  company = "IEEE"
-  company_url = "California"
-  location = ""
-  date_start = "Jan 2017"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Link
-  * TV
-  """
+
 
 +++
