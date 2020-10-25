@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Lectures&shy;notes"
+title = "Papers notes"
 subtitle = ""
 
 # Date format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Teacher"
+  organization = "Student"
   organization_url = ""
   title = "SSAHTV"
   url = "https://pan.baidu.com/s/1RXiXlYn57ZRZFFi4w9WZFA"
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Teacher"
+  organization = "Student"
   organization_url = ""
   title = "SR+LRC"
   url = ""
