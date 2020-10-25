@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 [[experience]]
   title = "SSAHTV"
   company = "IEEE"
-  company_url = ""
+  company_url = "California"
   location = ""
-  date_start = "Jan 2006"
+  date_start = "Jan 2017"
   date_end = ""
   description = """
   Responsibilities include:
