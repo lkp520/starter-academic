@@ -21,14 +21,13 @@ date_format = "Jan 2006"
   title = "SSAHTV"
   company = "IEEE"
   company_url = ""
-  location = "ddd"
+  location = ""
   date_start = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
   
   * Link
-  * TV
   * TV
   """
 
