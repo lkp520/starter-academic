@@ -21,13 +21,13 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Student"
   organization_url = ""
-  title = "SSAHTV"
-  url = "https://pan.baidu.com/s/1RXiXlYn57ZRZFFi4w9WZFA"
+  title = "LRMR"
+  url = ""
   certificate_url = ""
-  date_start = "2012-01-01"
+  date_start = "2014-02-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Student"
   organization_url = ""
@@ -37,15 +37,14 @@ date_format = "Jan 2006"
   date_start = "2014-01-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Student"
   organization_url = ""
-  title = "LRMR"
-  url = ""
+  title = "SSAHTV"
+  url = "https://pan.baidu.com/s/1RXiXlYn57ZRZFFi4w9WZFA"
   certificate_url = ""
-  date_start = "2014-02-01"
+  date_start = "2012-01-01"
   date_end = ""
   description = ""
-
 +++
