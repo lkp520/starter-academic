@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "IEEE"
   company_url = ""
   location = "ddd"
-  date_start = "2012-10"
+  date_start = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
