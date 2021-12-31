@@ -24,12 +24,12 @@ subtitle = ""
   icon = "images"
   icon_pack = "fas"
   name = "Python"
-  description = "70%"  
+  description = "60%"  
   
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
-  name = "Reading"
+  name = "Linux"
   description = "30%"
 
 # Uncomment to use emoji icons.
