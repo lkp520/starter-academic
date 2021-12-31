@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "images"
   icon_pack = "fas"
-  name = "Image processing"
-  description = "10%"  
+  name = "Python"
+  description = "70%"  
   
 [[feature]]
   icon = "book-reader"
